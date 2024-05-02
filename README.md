@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm [Your Name], a passionate Web3 software engineer, AI enthusiast, technology lover, UI designer, and cybersecurity practitioner.
+I'm PRAISE UGOCHIM GEORGEWILL, a passionate Web3 software engineer, AI enthusiast, technology lover, UI designer, and cybersecurity practitioner.
 
 ## About Me
 
