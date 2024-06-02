@@ -1,35 +1,31 @@
-# Hello, World! 👋
+# Hi 👋 my name is Praise Georgewill
 
-I'm PRAISE UGOCHIM GEORGEWILL, a passionate Web3 software engineer, AI enthusiast, technology lover, UI designer, and cybersecurity practitioner.
+## Block chain Engineer | Designer
 
-## About Me
+Skilled Blockchain Engineer 🚀 Passionate about decentralized systems, smart contracts, and cross-platform app development. Proven problem solver and team player. Let's collaborate! #Blockchain #SmartContracts #WebDev #ReactNative
 
-🚀 I'm dedicated to pushing the boundaries of Web3 technology to create innovative solutions.
-💡 I'm fascinated by the intersection of AI and technology and constantly exploring new advancements in the field.
-🎨 I have a keen eye for design and strive to create beautiful and user-friendly UIs for all my projects.
-🔒 With a background in cybersecurity, I prioritize building secure and resilient systems.
+*  🌍 I am based in Port Harcourt
+*  📨 You can contact me at georgewillpraise1@gmail.com
+*  🚀 I am currently woeking on [LearnFlow.ai](https://github.com/praise-cloud/LearnFlow.git)
+*  🧠 I am learning more about the blockchain & AI
+*  🤝 I am open to collaborating on Smart contract development, DeFi, DApp.
+*  ⚡ Love sports, instruments, movies & learning tech realted stuff
 
-## Technologies I Work With
+  
+ [![Follow](https://img.shields.io/github/followers/praise-cloud?style=social)](https://github.com/praise-cloud)
 
-![Web3](https://img.shields.io/badge/Web3-Ethereum-blue)
-![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contracts-brightgreen)
-![Web3.js](https://img.shields.io/badge/Web3.js-Blockchain-yellow)
-![IPFS](https://img.shields.io/badge/IPFS-Decentralized%20Storage-lightgrey)
-![AI](https://img.shields.io/badge/AI-Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20NLP-orange)
-![HTML](https://img.shields.io/badge/HTML5-HTML-orange)
-![CSS](https://img.shields.io/badge/CSS3-CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-JS-yellow)
-![React.js](https://img.shields.io/badge/React.js-React-blueviolet)
-![Node.js](https://img.shields.io/badge/Node.js-Node-green)
-![Python](https://img.shields.io/badge/Python-Python-blue)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Penetration%20Testing%20%7C%20Threat%20Analysis%20%7C%20Cryptography-red)
+## Skills
 
-## Get in Touch
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,firebase,notion,py,react,solidity,tailwind,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,java,jquery,mysql,kali,linux,nextjs,nodejs)](https://skillicons.dev)
 
-📫 Feel free to reach out to me through [LinkedIn](your-linkedin-profile) or [Twitter](your-twitter-profile).
-🌐 Check out my portfolio website: [Your Portfolio Website](link).
 
-## Fun Fact
+## Socials
 
-🎮 When I'm not coding, you can find me playing video games or exploring the great outdoors.
+<a href="https://twitter.com/PraiseGeorgewil" target="_blank"><img src="https://github.com/praise-cloud/praise-cloud/assets/78528599/b51c4ed9-abe4-472f-92b1-55093dbdb4c8" alt="x" width="40"></a>
+<a href="https://www.linkedin.com/in/praise-georgewill/" target="_blank"><img src="https://github.com/praise-cloud/praise-cloud/assets/78528599/18409a2e-295d-4a6b-9c52-66c1ca01c313" alt="LinkedIn" width="40"></a>
+<a href="https://www.instagram.com/praisegeorgewil" target="_blank"><img src="https://github.com/praise-cloud/praise-cloud/assets/78528599/bfa49e70-25f1-4afc-bb6f-7c97c2247d71" alt="Instagram" width="40"></a>
+<a href="https://github.com/praise-cloud" target="_blank"><img src="https://github.com/praise-cloud/praise-cloud/assets/78528599/ca82bbc5-1d64-49a8-9236-39f11538faf0" alt="GitHub" width="40"></a>
+<a href="mailto:georgewillpraise1@gmail.com" target="_blank"><img src="https://github.com/praise-cloud/praise-cloud/assets/78528599/d380dd7b-d59f-405f-ba3a-6f320c257a44" alt="Email" width="40"></a>
+
 
