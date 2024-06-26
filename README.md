@@ -1,6 +1,6 @@
 # Hi 👋 my name is Praise Georgewill
 
-## Block chain Engineer | Designer
+## Software engineer | Block chain Engineer | Designer
 
 Skilled Blockchain Engineer 🚀 Passionate about decentralized systems, smart contracts, and cross-platform app development. Proven problem solver and team player. Let's collaborate! #Blockchain #SmartContracts #WebDev #ReactNative
 
