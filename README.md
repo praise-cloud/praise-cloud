@@ -6,7 +6,7 @@ Skilled Blockchain Engineer 🚀 Passionate about decentralized systems, smart c
 
 *  🌍 I am based in Port Harcourt
 *  📨 You can contact me at georgewillpraise1@gmail.com
-*  🚀 I am currently woeking on [MedLink]([https://github.com/praise-cloud/Medilink.git])
+*  🚀 I am currently working on [MedLink](https://github.com/praise-cloud/Medilink.git)
 *  🧠 I am learning more about the blockchain & AI
 *  🤝 I am open to collaborating on Smart contract development, DeFi, DApp.
 *  ⚡ Love sports, instruments, movies & learning tech realted stuff
