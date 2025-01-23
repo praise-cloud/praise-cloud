@@ -16,7 +16,7 @@ Frontend-Focused Software Engineer 🚀 Passionate about building seamless, user
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,js,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts,vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,nextjs)](https://skillicons.dev)
 
 
