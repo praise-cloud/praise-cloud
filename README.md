@@ -10,7 +10,7 @@ Frontend-Focused Software Engineer 🚀 Passionate about building seamless, user
 * 🧠 I am learning more about AI & how it can improve my frontend development  
 * 🤝 I am open to collaborating on projects that are impactful to society  
 * ⚡ Love sports, instruments, movies & learning tech-related stuff  
-* 📄 Check out my [Resume](https://raw.githubusercontent.com/praise-cloud/myResume/main/resume.pdf)
+* 📄 Check out my [Resume](https://github.com/praise-cloud/myResume/main/resume.pdf)
   
 
 [![Follow](https://img.shields.io/github/followers/praise-cloud?style=social)](https://github.com/praise-cloud)  
