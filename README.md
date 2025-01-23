@@ -1,14 +1,14 @@
 # Hi 👋 my name is Praise Georgewill
 
-## Software engineer | Block chain Engineer | Designer
+## Software engineer 
 
-Skilled Blockchain Engineer 🚀 Passionate about decentralized systems, smart contracts, and cross-platform app development. Proven problem solver and team player. Let's collaborate! #Blockchain #SmartContracts #WebDev #ReactNative
+Frontend-Focused Software Engineer 🚀 Passionate about building seamless, user-centric web experiences with modern frameworks. Specialized in blockchain UI, DApps, and smart contract integration. Proven problem solver and team player. Let's connect! #Frontend #WebDev #ReactNative
 
 *  🌍 I am based in Port Harcourt
 *  📨 You can contact me at georgewillpraise1@gmail.com
 *  🚀 I am currently working on [MedLink](https://github.com/praise-cloud/Medilink.git)
-*  🧠 I am learning more about the blockchain & AI
-*  🤝 I am open to collaborating on Smart contract development, DeFi, DApp.
+*  🧠 I am learning more about the AI & How it can improve my frontend development
+*  🤝 I am open to collaborating on Projects that are Impactful to the Society 
 *  ⚡ Love sports, instruments, movies & learning tech realted stuff
 
   
@@ -16,8 +16,8 @@ Skilled Blockchain Engineer 🚀 Passionate about decentralized systems, smart c
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,firebase,notion,py,react,solidity,tailwind,ts,vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,java,jquery,mysql,kali,linux,nextjs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,js,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,nextjs)](https://skillicons.dev)
 
 
 ## Socials
