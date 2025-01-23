@@ -2,7 +2,7 @@
 
 ## Software engineer 
 
-Frontend-Focused Software Engineer 🚀 Passionate about building seamless, user-centric web experiences with modern frameworks. Specialized in blockchain UI, DApps, and smart contract integration. Proven problem solver and team player. Let's connect! #Frontend #WebDev #ReactNative
+Frontend-Focused Software Engineer 🚀 Passionate about building seamless, user-centric web experiences with modern frameworks. Proven problem solver and team player. Let's connect! #Frontend #WebDev #ReactNative
 
 *  🌍 I am based in Port Harcourt
 *  📨 You can contact me at georgewillpraise1@gmail.com
