@@ -1,24 +1,59 @@
-# Hi, I'm Praise 👋
+<h1 align="left">Hi I'm Praise 👋</h1>
 
-## 🚀 I'm a Frontend Developer | Building Scalable & High-Performance UIs
-#### I specialize in crafting high-converting, visually stunning, and performance-driven web experiences. Passionate about blending design with functionality to create seamless user experiences.
+###
 
-## 🛠️ Tech Stack  
+<h3 align="left">I'm a Frontend Developer | Building Scalable High-Performing UIs</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,vscode)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=git,github,nextjs)](https://skillicons.dev)  
+###
 
-## 🔥 About Me
-* 🔹 Location: Port Harcourt, Nigeria 🌍  
-* 🔹 Currently Learning: AI-driven frontend development & advanced React ⚡ 
-* 🔹 Collaboration: Open to working on impactful projects that make a difference 🤝
-* 🔹 Interests: Sports, musical instruments, movies, and all things tech 🎬🎸🏀
-* 🔹 Resume [Resume](https://github.com/praise-cloud/myResume/main/resume.pdf) 📄
-  
+<p align="left">I specialize in crafting high-converting, visually stunning, and performance-driven web experiences. Passionate about blending design with functionality to create seamless user experiences.</p>
 
-[![Follow](https://img.shields.io/github/followers/praise-cloud?style=social)](https://github.com/praise-cloud)  
+###
 
+<h2 align="left">🛠️ Tech Stack</h2>
 
-## 📬 Let's Connect!  
+###
 
-<a href="https://twitter.com/PraiseGeorgewil" target="_blank"><img src="https://github.com/praise-cloud/praise-cloud/assets/78528599/b51c4ed9-abe4-472f-92b1-55093dbdb4c8" alt="X" width="40"></a> <a href="https://www.linkedin.com/in/praise-georgewill/" target="_blank"><img src="https://github.com/praise-cloud/praise-cloud/assets/78528599/18409a2e-295d-4a6b-9c52-66c1ca01c313" alt="LinkedIn" width="40"></a> <a href="https://www.instagram.com/praisegeorgewil" target="_blank"><img src="https://github.com/praise-cloud/praise-cloud/assets/78528599/bfa49e70-25f1-4afc-bb6f-7c97c2247d71" alt="Instagram" width="40"></a> <a href="https://github.com/praise-cloud" target="_blank"><img src="https://github.com/praise-cloud/praise-cloud/assets/78528599/ca82bbc5-1d64-49a8-9236-39f11538faf0" alt="GitHub" width="40"></a> <a href="mailto:georgewillpraise1@gmail.com" target="_blank"><img src="https://github.com/praise-cloud/praise-cloud/assets/78528599/d380dd7b-d59f-405f-ba3a-6f320c257a44" alt="Email" width="40"></a>  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="53" alt="html5 logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="53" alt="css3 logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="53" alt="javascript logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="53" alt="react logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="53" alt="tailwindcss logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="53" alt="typescript logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="53" alt="nextjs logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="53" alt="jest logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="53" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="left">🔥 About Me</h2>
+
+###
+
+<p align="left">🔹 Location: Port Harcourt, Nigeria 🌍<br>🔹 Currently Learning: AI-driven frontend development & advanced React ⚡<br>🔹 Collaboration: Open to working on impactful projects that make a difference 🤝<br>🔹 Interests: Sports, musical instruments, movies, and all things tech 🎬🎸🏀</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/praise-georgewill?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bodm4ApYgTJCFHdx5yThAaA%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/PraiseStea20774" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/praise.stealth/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
