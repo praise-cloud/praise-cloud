@@ -107,21 +107,12 @@ I believe great infrastructure should be invisible — it just *works*. My job i
 
 <div align="center">
 
-<!-- 
-  ⚠️ SETUP REQUIRED FOR STATS & TOP LANGUAGES CARDS:
-  The public github-readme-stats server is rate-limited.
-  Deploy your own FREE instance in ~2 minutes:
-  1. Go to https://github.com/anuraghazra/github-readme-stats
-  2. Fork the repo
-  3. Go to https://vercel.com → Import your forked repo → Deploy
-  4. Replace YOUR-VERCEL-APP below with your Vercel app name
--->
-<img src="https://YOUR-VERCEL-APP.vercel.app/api?username=praise-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-kappa-sepia-51.vercel.app/api?username=praise-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com/?user=praise-cloud&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=praise-cloud&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats-kappa-sepia-51.vercel.app/api/top-langs/?username=praise-cloud&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Top Languages"/>
 
 <br/><br/>
 
