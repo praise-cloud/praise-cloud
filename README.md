@@ -1,79 +1,164 @@
-<h1 align="center">Hi, I'm Praise Georgewill 👋</h1>
-
-<p align="center">
-  <strong>DevOps & Cloud Engineer</strong> | AWS | Docker | Kubernetes | Infrastructure Reliability
-</p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="280" alt="DevOps Engineering"/>
-</div>
 
-<p align="center">
-  I help startups and growing tech teams build <strong>scalable, resilient, and cost-efficient</strong> cloud infrastructure so they can grow confidently without worrying about downtime, security breaches, or exploding cloud bills.
-</p>
+<!-- Hero Banner GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="DevOps Engineering GIF"/>
 
----
+<br/>
 
-### 💡 What I Bring to the Table
+# Hi there, I'm Praise 👋
 
-I specialize in turning fragile, expensive, and complex infrastructure into **stable foundations** that support rapid growth.
+### DevOps & Cloud Engineer
+**Building infrastructure that's fast, reliable, and built to scale.**
 
-- **Prevent Costly Downtime** — Design high-availability architectures with proper redundancy and disaster recovery
-- **Slash Cloud Waste** — Optimize AWS environments to reduce bills by 25-40% while maintaining performance
-- **Strengthen Security** — Implement proper IAM, network security, container hardening, and compliance-ready setups
-- **Enable Smooth Scaling** — Build auto-scaling, containerized (Docker/Kubernetes) systems that grow with your user base
-- **Automate Everything** — CI/CD pipelines, infrastructure as code, monitoring & alerting so your team can focus on product, not firefighting
+`AWS` · `Docker` · `Kubernetes` · `CI/CD` · `Infrastructure as Code`
 
-Whether you're preparing for your next funding round, experiencing growing pains, or simply tired of infrastructure surprises — I make sure your backend is an **unfair advantage**, not a hidden risk.
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-georgewill)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PraiseStea20774)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praise.stealth/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your-handle)
 
-### 🛠️ Core Expertise
-
-- **Cloud**: AWS (EC2, RDS, SQS, Lambda, Fargate, VPC, CloudWatch, IAM)
-- **Containers & Orchestration**: Docker, Kubernetes
-- **Automation**: Python, Bash, GitHub Actions
-- **Reliability & Observability**: Monitoring, logging, alerting, and incident response systems
-- **Linux Systems** & Networking
-
----
-
-### 🧰 Technologies I Work With
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
 </div>
 
 ---
 
-### 📍 About Me
+## 🧑‍💻 About Me
 
-- **Based in**: Nigeria (Fully remote-ready & open to UK/Europe opportunities)
-- **Mission**: Help SaaS companies and tech teams ship faster with infrastructure they can trust
-- **Approach**: Practical, hands-on, and results-focused. I don’t just set things up — I transfer knowledge so your team owns the system long-term.
+I'm a **DevOps & Cloud Engineer** based in **Nigeria** 🇳🇬, specializing in building **scalable, resilient, and cost-efficient AWS infrastructure** for SaaS companies and growing tech teams.
+
+I believe great infrastructure should be invisible — it just *works*. My job is to make sure your systems stay up, your team ships fast, and your cloud bill doesn't give you heart attacks. I'm calm under pressure, practical in my approach, and I genuinely enjoy making complex infrastructure feel simple and reliable.
+
+- 🔭 Currently building cloud-native solutions on **AWS**
+- 🌍 Remote-ready — open to opportunities across the **UK & Europe**
+- 💬 Ask me about **AWS architecture, Docker, Kubernetes, CI/CD, or cloud cost optimization**
+- ⚡ Fun fact: I built a full scalable SaaS backend in **48 hours**
 
 ---
 
-### 🔗 Let's Build Something Reliable Together
+## 🚀 What I Bring to the Table
+
+> *"Infrastructure that doesn't fail isn't luck — it's engineering."*
+
+| 💡 What I Do | 🎯 What You Get |
+|---|---|
+| Design high-availability AWS architectures | **Zero costly downtime surprises** |
+| Containerize apps with Docker & Kubernetes | **Portable, scalable deployments** |
+| Build CI/CD pipelines with GitHub Actions | **Ship features faster, break less** |
+| Optimize cloud spend across your stack | **Typically 25–40% cost reduction** |
+| Set up monitoring, alerting & observability | **See problems before your users do** |
+| Harden security with IAM best practices | **Sleep better at night** |
+| Automate infrastructure (IaC) | **Less manual work, fewer human errors** |
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/praise-georgewill" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/PraiseStea20774" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="36" alt="Twitter"/>
-  </a>
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Fargate](https://img.shields.io/badge/Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ⚙️ CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 💻 Languages & OS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
+---
+
+## 🏗️ Featured Project: Chirpify — Scalable SaaS Backend
+
+> Built end-to-end in **48 hours** to demonstrate real-world AWS architecture skills.
+
+**What I built:**
+
+```
+📦 Chirpify SaaS Infrastructure
+├── 🌐 Custom VPC (public/private subnets, NAT gateway, route tables)
+├── 🐘 Multi-AZ RDS PostgreSQL (high availability, automated backups)
+├── ⚡ FastAPI running on AWS Fargate (serverless containers via Docker)
+├── 📨 SQS + Lambda async processing pipeline
+└── 🔄 GitHub Actions CI/CD (automated test → build → deploy)
+```
+
+**Why it matters:** This isn't a tutorial follow-along — it's a production-grade setup that handles real traffic, isolates failure, and deploys automatically without touching a server.
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="220" alt="Cloud Infrastructure"/>
-  <br>
-  <strong>Ready to make your infrastructure boringly reliable?</strong><br>
-  Feel free to reach out — I'm always happy to have a conversation.
+
+<!-- 
+  ⚠️ SETUP REQUIRED FOR STATS & TOP LANGUAGES CARDS:
+  The public github-readme-stats server is rate-limited.
+  Deploy your own FREE instance in ~2 minutes:
+  1. Go to https://github.com/anuraghazra/github-readme-stats
+  2. Fork the repo
+  3. Go to https://vercel.com → Import your forked repo → Deploy
+  4. Replace YOUR-VERCEL-APP below with your Vercel app name
+-->
+<img src="https://YOUR-VERCEL-APP.vercel.app/api?username=praise-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=praise-cloud&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=praise-cloud&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praise-cloud&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Build Something Reliable
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake"/>
+
+**I'm currently open to:**
+- 🟢 Full-time DevOps / Cloud Engineering roles (Remote — UK & Europe preferred)
+- 🟢 Freelance infrastructure audits & cloud migrations
+- 🟢 Consulting for startups building on AWS
+
+If your team needs infrastructure that *scales without drama*, let's talk.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-georgewill)
+[![X / Twitter](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PraiseStea20774)
+
+<br/>
+
+*"Building infrastructure that scales isn't just my job — it's my craft."* ☁️
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=praise-cloud&style=flat-square&color=6366f1" alt="Profile Views"/>
+  
+  ⭐ **From [Praise Georgewill](https://github.com/praise-cloud)** — DevOps & Cloud Engineer
 </div>
