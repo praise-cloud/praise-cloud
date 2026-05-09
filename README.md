@@ -147,8 +147,8 @@ If your team needs infrastructure that *scales without drama*, let's talk.
 
 ---
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=praise-cloud&style=flat-square&color=6366f1" alt="Profile Views"/>
   
-  ⭐ **From [Praise Georgewill](https://github.com/praise-cloud)** — DevOps & Cloud Engineer
+  ⭐ **From [Praise Ugochim Georgewill](https://github.com/praise-cloud)** — DevOps & Cloud Engineer
 </div>
