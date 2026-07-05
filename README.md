@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **DevOps & Cloud Engineer** based in **Nigeria** 🇳🇬, specializing in building **scalable, resilient, and cost-efficient AWS infrastructure** for SaaS companies and growing tech teams.
+I'm a **DevOps & Cloud Engineer**, specializing in building **scalable, resilient, and cost-efficient AWS infrastructure** for SaaS companies and growing tech teams.
 
 I believe great infrastructure should be invisible, ease to manage and it should *work*. My job is to make sure your systems stay up, your team ships fast, and your cloud bill doesn't give you heart attacks. I'm calm under pressure, practical in my approach, and I genuinely enjoy making complex infrastructure feel simple and reliable.
 
