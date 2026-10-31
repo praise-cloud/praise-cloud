@@ -25,7 +25,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praise.georgewill/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@praise_georgewill)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@praise.georgewill)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://praisestealth.framer.website/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://praisestealth.framer.website/) -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgewillpraise1@gmail.com)
 
 </div>
@@ -185,7 +185,7 @@ If you want an engineer who ships, learns fast and documents everything, let's t
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-georgewill)
 [![X / Twitter](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/georgewillprai)
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://praisestealth.framer.website/)
+<!--[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://praisestealth.framer.website/) -->
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgewillpraise1@gmail.com)
 
 <br/>
