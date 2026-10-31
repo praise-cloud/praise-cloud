@@ -33,7 +33,7 @@ I'm a **DevOps & Cloud Engineer**, specializing in building **scalable, resilien
 I believe great infrastructure should be invisible, ease to manage and it should *work*. My job is to make sure your systems stay up, your team ships fast, and your cloud bill doesn't give you heart attacks. I'm calm under pressure, practical in my approach, and I genuinely enjoy making complex infrastructure feel simple and reliable.
 
 - 🔭 Currently building cloud-native solutions on **AWS**
-- 🌍 Remote-ready — open to opportunities across the **UK & Europe**
+- 🌍 Remote-ready 
 - 💬 Ask me about **AWS architecture, Docker, Kubernetes, CI/CD, or cloud cost optimization**
 
 ---
