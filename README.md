@@ -3,9 +3,9 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · praise-cloud</sub></p>
+<p><sub>Praise-cloud</sub></p>
 <h1>PRAISE UGOCHIM GEORGEWILL</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>full-stack & Cloud engineer</h2>
 <p>Full-stack &amp; cloud engineer learning AWS, Linux, Terraform &amp; Kubernetes in public. Open to remote roles.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Flic en flac, Mauritius</sub></p>
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · Dart</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>full-stack engineer and Cloud engineer · TypeScript · JavaScript · Dart</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>18 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>716 contributions · 116 active days</p></td>
 </tr>
